@@ -1,0 +1,5 @@
+
+
+POST  /upload                 eu.unicredit.Application.upload()
+
+GET   /save/:uuid1            eu.unicredit.Application.save(uuid1: String)
